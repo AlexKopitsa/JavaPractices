@@ -1,10 +1,6 @@
-package org.KNUJavaLabs.ClassWork.lab4;
-
+package org.Java_labs.lab4;
 import java.util.Scanner;
 
-/*
-LabsJava3 Task 1.2
- */
 public class Task1_2 {
     public static int max(Integer [] array) {
         int max = 0;

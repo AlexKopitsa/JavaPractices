@@ -1,11 +1,6 @@
-package org.KNUJavaLabs.ClassWork.lab4;
-
-
+package org.Java_labs.lab4;
 import java.util.Scanner;
 
-/*
-LabsJava3 Task 1.3
- */
 public class Task1_3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

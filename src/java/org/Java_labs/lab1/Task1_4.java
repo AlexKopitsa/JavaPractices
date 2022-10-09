@@ -1,4 +1,4 @@
-package org.javapractices.lab1;
+package org.Java_labs.lab1;
 
 public class Task1_4 {
 	public static String str = "Hi, Alex";

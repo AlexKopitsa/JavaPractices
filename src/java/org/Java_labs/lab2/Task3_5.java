@@ -1,4 +1,4 @@
-package org.javapractices.lab2;
+package org.Java_labs.lab2;
 
 import java.util.Arrays;
 
@@ -23,6 +23,5 @@ public class Task3_5 {
         System.out.println(String.join(
                 delim, Arrays.stream(doubles).mapToObj(x->String.format("%.2f",x))
                         .toArray(String[]::new)));
-
     }
 }

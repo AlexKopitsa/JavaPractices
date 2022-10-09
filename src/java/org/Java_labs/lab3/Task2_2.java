@@ -1,4 +1,4 @@
-package org.javapractices.lab3;
+package org.Java_labs.lab3;
 import java.util.Scanner;
 
 public class Task2_2 {

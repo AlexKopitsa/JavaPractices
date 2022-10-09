@@ -1,9 +1,4 @@
-package org.KNUJavaLabs.ClassWork.lab4;
-
-/*
-LabsJava3 Task 1.6
- */
-
+package org.Java_labs.lab4;
 import java.util.*;
 
 public class Task1_6 {

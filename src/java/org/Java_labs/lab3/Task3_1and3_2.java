@@ -1,4 +1,4 @@
-package org.javapractices.lab3;
+package org.Java_labs.lab3;
 public class Task3_1and3_2 {
     public static void main(String[] args){
         System.out.print("Task 3.1: ");

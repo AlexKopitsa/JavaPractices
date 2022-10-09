@@ -1,4 +1,4 @@
-package org.javapractices.lab1;
+package org.Java_labs.lab1;
 
 import java.util.Scanner;
 

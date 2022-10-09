@@ -1,4 +1,4 @@
-package org.javapractices.lab1;
+package org.Java_labs.lab1;
 
 import java.util.Scanner;
 
@@ -9,6 +9,6 @@ public class Task2_3 {
         a = scanIn.nextDouble();
         b = scanIn.nextDouble();
         c = Math.sqrt(a * b);
-        System.out.println("Serednye geometrychne " + c);
+        System.out.println("Geometric mean " + c);
     }
 }

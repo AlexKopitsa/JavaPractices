@@ -1,4 +1,4 @@
-package org.javapractices.lab2;
+package org.Java_labs.lab2;
 
 public class Task3_7 {
 
