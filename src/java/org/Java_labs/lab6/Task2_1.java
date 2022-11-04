@@ -16,7 +16,7 @@ public class Task2_1 {
         Scanner in = new Scanner(System.in);
         String command = "end";
         do {
-            System.out.print("\nEnter command (faculty, year or group): ");
+            System.out.print("\n Enter command (faculty, year or group): ");
             command = in.nextLine();
             if (command.equals("faculty")){
                 System.out.print("\n Enter faculty: ");
