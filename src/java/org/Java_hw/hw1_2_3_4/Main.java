@@ -1,7 +1,6 @@
-package com;
+package org.Java_hw.hw1_2_3_4;
 
 public class Main {
-
 	public static void main(String[] args) {
 		Task2_2 t = new Task2_2();
 //		Task3_19 t = new Task3_19();
