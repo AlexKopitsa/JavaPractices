@@ -1,5 +1,4 @@
-package com;
-
+package org.Java_hw.hw1_2_3_4;
 import java.util.Arrays;
 
 public class Task4_12 {
