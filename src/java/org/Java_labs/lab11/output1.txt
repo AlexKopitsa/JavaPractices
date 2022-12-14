@@ -1,0 +1,12 @@
+
+
+In mathematics, Voronoi diagram is partition of plane into regions close
+to each of given set of objects. In the simplest case, these objects are
+just finitely many points in the plane (called seeds, sites, or generators).
+
+
+
+For each seed there is corresponding region, called Voronoi cell,
+consisting of all points of the plane closer to that seed than to any other.
+The Voronoi diagram of set of points is dual to that set's Delaunay
+triangulation.  word1 word2
